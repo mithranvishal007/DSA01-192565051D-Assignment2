@@ -1,0 +1,6 @@
+charge(2) [int grams] = 0.10
+charge(2.0f) [float promotes to double] = 100.00
+charge(2.0) [double kilograms] = 100.00
+charge(500) [int grams] = 25.00
+charge(parcel) [Parcel overload] = 175.00
+charge(2.0, true, true) [double overload] = 150.00
