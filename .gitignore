@@ -1,0 +1,13 @@
+# Object and Executable files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Temporary and IDE files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
