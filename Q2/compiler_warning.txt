@@ -1,0 +1,10 @@
+Command: g++ -std=c++17 -Wall -Wextra -Wreturn-local-addr -pedantic -c q2_return_reference.cpp
+Return code: 0
+STDERR:
+/mnt/data/DSA01-192565051D-Assignment2/Q2/q2_return_reference.cpp: In function ‘int& danglingReference()’:
+/mnt/data/DSA01-192565051D-Assignment2/Q2/q2_return_reference.cpp:15:12: warning: reference to local variable ‘local’ returned [-Wreturn-local-addr]
+   15 |     return local;
+      |            ^~~~~
+/mnt/data/DSA01-192565051D-Assignment2/Q2/q2_return_reference.cpp:14:9: note: declared here
+   14 |     int local = 42;
+      |         ^~~~~
