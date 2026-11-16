@@ -1,0 +1,4 @@
+Original shift design
+Transactions inserted: 200000
+Insertion time (microseconds): 2262
+Last transactions: 199991 199992 199993 199994 199995 199996 199997 199998 199999 200000
