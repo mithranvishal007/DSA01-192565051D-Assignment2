@@ -1,0 +1,4 @@
+Iterations per measurement: 10000000
+Inline function (microseconds): 13892
+Regular function (microseconds): 22171
+Sink: 2050000000
